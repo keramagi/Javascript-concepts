@@ -1,4 +1,4 @@
- /*closures are the combination of function and environment with which function are decalred
+ /*closures are the combination of function and environment within which function are decalred
  and inner functions have access to all outer function variables and objects*/
  function outer(){
    var x=20;
